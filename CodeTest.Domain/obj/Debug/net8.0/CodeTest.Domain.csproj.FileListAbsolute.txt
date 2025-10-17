@@ -1,0 +1,11 @@
+C:\Users\Igor\source\repos\CodeTest\CodeTest.Domain\bin\Debug\net8.0\CodeTest.Domain.deps.json
+C:\Users\Igor\source\repos\CodeTest\CodeTest.Domain\bin\Debug\net8.0\CodeTest.Domain.dll
+C:\Users\Igor\source\repos\CodeTest\CodeTest.Domain\bin\Debug\net8.0\CodeTest.Domain.pdb
+C:\Users\Igor\source\repos\CodeTest\CodeTest.Domain\obj\Debug\net8.0\CodeTest.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor\source\repos\CodeTest\CodeTest.Domain\obj\Debug\net8.0\CodeTest.Domain.AssemblyInfoInputs.cache
+C:\Users\Igor\source\repos\CodeTest\CodeTest.Domain\obj\Debug\net8.0\CodeTest.Domain.AssemblyInfo.cs
+C:\Users\Igor\source\repos\CodeTest\CodeTest.Domain\obj\Debug\net8.0\CodeTest.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Igor\source\repos\CodeTest\CodeTest.Domain\obj\Debug\net8.0\CodeTest.Domain.dll
+C:\Users\Igor\source\repos\CodeTest\CodeTest.Domain\obj\Debug\net8.0\refint\CodeTest.Domain.dll
+C:\Users\Igor\source\repos\CodeTest\CodeTest.Domain\obj\Debug\net8.0\CodeTest.Domain.pdb
+C:\Users\Igor\source\repos\CodeTest\CodeTest.Domain\obj\Debug\net8.0\ref\CodeTest.Domain.dll

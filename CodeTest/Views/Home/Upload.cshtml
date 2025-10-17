@@ -1,0 +1,16 @@
+﻿@{
+    ViewData["Title"] = "Upload CNAB";
+}
+
+<h1>Import File CNAB</h1>
+
+<form method="post" enctype="multipart/form-data" asp-controller="Home" asp-action="UploadCnab">
+    <input type="file" name="file" accept=".txt,.cnab" />
+    <br /><br />
+    <button type="submit">Send</button>
+</form>
+
+@if (ViewBag.Message != null)
+{
+    <p style="margin-top:20px; font-weight:bold; color:green;">@ViewBag.Message</p>
+}

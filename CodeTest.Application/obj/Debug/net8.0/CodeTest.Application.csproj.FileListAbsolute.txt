@@ -1,0 +1,17 @@
+C:\Users\Igor\source\repos\CodeTest\CodeTest.Application\bin\Debug\net8.0\CodeTest.Application.deps.json
+C:\Users\Igor\source\repos\CodeTest\CodeTest.Application\bin\Debug\net8.0\CodeTest.Application.dll
+C:\Users\Igor\source\repos\CodeTest\CodeTest.Application\bin\Debug\net8.0\CodeTest.Application.pdb
+C:\Users\Igor\source\repos\CodeTest\CodeTest.Application\bin\Debug\net8.0\CodeTest.Domain.dll
+C:\Users\Igor\source\repos\CodeTest\CodeTest.Application\bin\Debug\net8.0\CodeTest.Infrastructure.dll
+C:\Users\Igor\source\repos\CodeTest\CodeTest.Application\bin\Debug\net8.0\CodeTest.Domain.pdb
+C:\Users\Igor\source\repos\CodeTest\CodeTest.Application\bin\Debug\net8.0\CodeTest.Infrastructure.pdb
+C:\Users\Igor\source\repos\CodeTest\CodeTest.Application\obj\Debug\net8.0\CodeTest.Application.csproj.AssemblyReference.cache
+C:\Users\Igor\source\repos\CodeTest\CodeTest.Application\obj\Debug\net8.0\CodeTest.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor\source\repos\CodeTest\CodeTest.Application\obj\Debug\net8.0\CodeTest.Application.AssemblyInfoInputs.cache
+C:\Users\Igor\source\repos\CodeTest\CodeTest.Application\obj\Debug\net8.0\CodeTest.Application.AssemblyInfo.cs
+C:\Users\Igor\source\repos\CodeTest\CodeTest.Application\obj\Debug\net8.0\CodeTest.Application.csproj.CoreCompileInputs.cache
+C:\Users\Igor\source\repos\CodeTest\CodeTest.Application\obj\Debug\net8.0\CodeTest.25535B67.Up2Date
+C:\Users\Igor\source\repos\CodeTest\CodeTest.Application\obj\Debug\net8.0\CodeTest.Application.dll
+C:\Users\Igor\source\repos\CodeTest\CodeTest.Application\obj\Debug\net8.0\refint\CodeTest.Application.dll
+C:\Users\Igor\source\repos\CodeTest\CodeTest.Application\obj\Debug\net8.0\CodeTest.Application.pdb
+C:\Users\Igor\source\repos\CodeTest\CodeTest.Application\obj\Debug\net8.0\ref\CodeTest.Application.dll

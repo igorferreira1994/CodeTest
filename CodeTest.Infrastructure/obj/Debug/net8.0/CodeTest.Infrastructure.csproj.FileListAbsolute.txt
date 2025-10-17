@@ -1,0 +1,17 @@
+C:\Users\Igor\source\repos\CodeTest\CodeTest.Infrastructure\bin\Debug\net8.0\CodeTest.Infrastructure.deps.json
+C:\Users\Igor\source\repos\CodeTest\CodeTest.Infrastructure\bin\Debug\net8.0\CodeTest.Infrastructure.runtimeconfig.json
+C:\Users\Igor\source\repos\CodeTest\CodeTest.Infrastructure\bin\Debug\net8.0\CodeTest.Infrastructure.dll
+C:\Users\Igor\source\repos\CodeTest\CodeTest.Infrastructure\bin\Debug\net8.0\CodeTest.Infrastructure.pdb
+C:\Users\Igor\source\repos\CodeTest\CodeTest.Infrastructure\bin\Debug\net8.0\CodeTest.Domain.dll
+C:\Users\Igor\source\repos\CodeTest\CodeTest.Infrastructure\bin\Debug\net8.0\CodeTest.Domain.pdb
+C:\Users\Igor\source\repos\CodeTest\CodeTest.Infrastructure\obj\Debug\net8.0\CodeTest.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Igor\source\repos\CodeTest\CodeTest.Infrastructure\obj\Debug\net8.0\CodeTest.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor\source\repos\CodeTest\CodeTest.Infrastructure\obj\Debug\net8.0\CodeTest.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Igor\source\repos\CodeTest\CodeTest.Infrastructure\obj\Debug\net8.0\CodeTest.Infrastructure.AssemblyInfo.cs
+C:\Users\Igor\source\repos\CodeTest\CodeTest.Infrastructure\obj\Debug\net8.0\CodeTest.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Igor\source\repos\CodeTest\CodeTest.Infrastructure\obj\Debug\net8.0\CodeTest.097C0164.Up2Date
+C:\Users\Igor\source\repos\CodeTest\CodeTest.Infrastructure\obj\Debug\net8.0\CodeTest.Infrastructure.dll
+C:\Users\Igor\source\repos\CodeTest\CodeTest.Infrastructure\obj\Debug\net8.0\refint\CodeTest.Infrastructure.dll
+C:\Users\Igor\source\repos\CodeTest\CodeTest.Infrastructure\obj\Debug\net8.0\CodeTest.Infrastructure.pdb
+C:\Users\Igor\source\repos\CodeTest\CodeTest.Infrastructure\obj\Debug\net8.0\CodeTest.Infrastructure.genruntimeconfig.cache
+C:\Users\Igor\source\repos\CodeTest\CodeTest.Infrastructure\obj\Debug\net8.0\ref\CodeTest.Infrastructure.dll

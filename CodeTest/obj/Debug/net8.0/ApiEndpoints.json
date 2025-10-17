@@ -1,0 +1,54 @@
+[
+  {
+    "ContainingType": "CodeTest.Controllers.CnabController",
+    "Method": "GetByStore",
+    "RelativePath": "Cnab/stores",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CodeTest.Controllers.CnabController",
+    "Method": "Upload",
+    "RelativePath": "Cnab/upload",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "file",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CodeTest.Controllers.HomeController",
+    "Method": "Upload",
+    "RelativePath": "upload-cnab",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CodeTest.Controllers.HomeController",
+    "Method": "UploadCnab",
+    "RelativePath": "upload-cnab",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "file",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
